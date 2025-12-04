@@ -7,7 +7,6 @@ This script installs Homebrew into a user's home directory, configures shell env
 Run as the standard user:
 
 ```bash
-
 zsh install_homebrew.sh
 
 **Important:** Do not run as root — this is a user-local install.
