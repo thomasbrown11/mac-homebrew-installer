@@ -8,6 +8,7 @@ Run as the standard user:
 
 ```bash
 zsh install_homebrew.sh
+```
 
 **Important:** Do not run as root — this is a user-local install.
 
